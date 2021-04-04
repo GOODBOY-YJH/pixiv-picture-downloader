@@ -13,7 +13,8 @@ count = 0 #下载的图片数量
 ##模拟登陆代码转载自知乎大佬，侵删
 name = "pixiv账号"
 password = "密码"
-
+name = input("请输入pixiv账号:")
+password = input("密码:")
 
 baseHeader = {
     # 'Host': 'www.pixiv.net'

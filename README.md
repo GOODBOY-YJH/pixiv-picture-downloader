@@ -1,4 +1,4 @@
-# pixiv 爬虫
+# pixiv 爬虫 (image)
 一个爬取**pixiv**榜单图片的python小程序和一个爬取**彼岸网壁纸**的python小程序，仅供交流学习使用。
 欢迎指点。
 
